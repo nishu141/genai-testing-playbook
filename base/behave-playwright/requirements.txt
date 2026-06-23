@@ -1,0 +1,7 @@
+# requirements.txt
+
+behave
+playwright
+behavex
+allure-python-commons
+

@@ -1,0 +1,8 @@
+<!-- .gitignore from upstream -->
+.gitignore
+__pycache__/
+.env
+.vscode/
+reports/
+node_modules/
+
